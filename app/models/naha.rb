@@ -1,0 +1,2 @@
+class Naha < ApplicationRecord
+end
